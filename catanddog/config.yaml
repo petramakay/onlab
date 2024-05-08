@@ -1,0 +1,8 @@
+path: C:\Users\petra\OneDrive\Asztali gép\Önálló labor\train
+train: images
+val: images
+
+#classes
+names:
+  0: cat
+  1: dog
